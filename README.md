@@ -1,5 +1,12 @@
+<p align="center">
+  <img src="https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" width="600"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
-<h3 align="center">M.Tech CSE | AI & ML Enthusiast | QA Engineer | Future SDE @ MAANG</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=M.Tech+CSE+Student+%7C+AI+Engineer;Machine+Learning+%7C+System+Design;QA+Automation+Specialist;Future+Software+Engineer+@+Google;Building+Intelligent+Systems+for+the+Future" />
+</p>
 
 ---
 
