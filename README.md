@@ -1,16 +1,90 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
+<h3 align="center">M.Tech CSE | AI & ML Enthusiast | QA Engineer | Future SDE @ MAANG</h3>
 
-<!--
-**mayankgts/mayankgts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 M.Tech CSE Student at Manipal Institute of Technology, Bengaluru
+- 💻 Passionate about AI, Machine Learning & System Design
+- 🧠 Strong foundation in DSA & problem solving
+- 🔍 Experienced in QA Testing (Manual + Automation)
+- 🚀 Currently building AI-Based Disaster Management System
+- 🎯 Goal: Software Engineer @ Google / YouTube
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+`Python` `C++` `Java` `Kotlin`
+
+### 🤖 AI/ML
+`TensorFlow` `PyTorch` `Scikit-Learn` `NLP` `Random Forest` `LSTM`
+
+### 🌐 Web & Backend
+`Django` `FastAPI` `Flask` `REST APIs`
+
+### 📱 Mobile
+`Android (Kotlin)` `Firebase`
+
+### 🧪 Testing & DevOps
+`Selenium` `Jenkins` `JIRA` `CI/CD`
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 AI-Based Disaster Management System
+- SOS Alerts
+- Shelter Locator (OpenStreetMap)
+- Disaster Severity Prediction (RF + LSTM)
+- AI Chatbot for Emergency Assistance
+- Backend: Firebase
+
+---
+
+### 📊 Car Popularity Classification
+- Feature Engineering
+- Violin Plots, Bar Charts
+- Random Forest & Decision Trees
+- Data-driven Insights
+
+---
+
+### ⚡ Crypto Trade Simulator (High Performance)
+- WebSocket L2 Orderbook
+- Slippage & Market Impact Modeling
+- Real-time Data Processing
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 LeetCode & Competitive Coding
+
+- Solving DSA problems daily
+- Preparing for MAANG interviews
+- Focus: Graphs, DP, System Design
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Add Your Link]
+- 📧 Email: [Add Your Email]
+- 🌐 Portfolio: [Add When Ready]
+
+---
+
+⭐ If you like my work, consider giving a star!
