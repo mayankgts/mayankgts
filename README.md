@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
 
 <p align="center">
-  <b>AI Engineer | M.Tech CSE | QA Automation Specialist</b>
+  <b>AI Engineer | M.Tech CSE |</b>
 </p>
 
 <p align="center">
@@ -22,6 +22,5 @@
 + AI-Focused Software Engineer
 + M.Tech CSE @ Manipal Institute of Technology, Bengaluru
 + Strong in DSA, ML & Backend Systems
-+ QA Automation using Selenium & Jenkins
 + Building Intelligent Systems for Real-World Impact
 + Target: Google | YouTube | GSoC
